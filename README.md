@@ -8,35 +8,33 @@
  - 114.114.114.114
  - 114.114.115.115
 
-## 第一步   打开手机的设置，找到【WIFI】
+## 第一步   在安卓手机上打开“设置”应用，在连接栏目下点击打开 WLAN 选项，如图所示
 
 ![image](https://iknow-pic.cdn.bcebos.com/f2deb48f8c5494ee22f680f925f5e0fe98257e7e)
 
 
-## 第二步：在“设置”功能列表中，点击“无线和网络”
-![image](https://p3.pstatp.com/large/pgc-image/87819f03929f4759bcd67d2a0cf0b3af)
+## 第二步：在无线列表中，请长按当前手机已经连接的无线网络，如图所示
+![image](https://iknow-pic.cdn.bcebos.com/e7cd7b899e510fb32b96f877d133c895d0430c46)
 
 
 
-## 第三步：在“无线和网络”功能列表中，点击“WLAN”
-![image](https://p1.pstatp.com/large/pgc-image/3d2f8c518d2e4819bcc4bc8203200faf)
+## 第三步   接着在弹出的选项窗口点击“修改网络配置”选项，如图所示
+![image](https://iknow-pic.cdn.bcebos.com/21a4462309f79052e228c9de04f3d7ca7bcbd51f)
 
 
 
-## 第四步：在“WLAN”功能窗口，长按已连接的WIFI，并在弹出的菜单中选择“修改网络”
-![image](https://p1.pstatp.com/large/pgc-image/ebe751f8989047be9ffdbcad87b7534e)
+## 第四步   随后在无线网络的设置列表中勾选“显示高级选项”框，如图所示
+![image](https://iknow-pic.cdn.bcebos.com/b2de9c82d158ccbf8aae3bda11d8bc3eb03541c4)
 
 
 
-## 第五步：在新窗口，勾选“显示高级选项”复选框
-![image](https://p1.pstatp.com/large/pgc-image/7aacb65ba2134e559954b3e55186822d)
+## 第五步：接下来请点击 DHCP 一栏并选择“静态”选项，只有设置为静态 IP 地址以后，才可以手动修改 DNS 地址
+![image](https://iknow-pic.cdn.bcebos.com/5d6034a85edf8db11020f2840123dd54574e74c0)
+
+![image](https://user-images.githubusercontent.com/88367251/143224006-6bf9c253-cc45-4e8a-ae9c-91fc4411313f.png)
 
 
-
-## 第六步：然后，点击“显示高级选项”下方的“IP”标签，并在弹出的对话框中选择“静态”
-![image](https://p1.pstatp.com/large/pgc-image/75b24d5bdb1f4071af8cb3e2daab89d4)
-
+## 第六步：随后在静态 IP 设置下方找到 DNS 一栏，手动输入想要修改的 DNS 地址，好了以后请点击“储存”按钮
+![image](https://iknow-pic.cdn.bcebos.com/dc54564e9258d10951ba2752d958ccbf6d814df1)
 
 
-## 第七步：最后，通过“域名1”或“域名2”下方的输入框输入新的DNS地址，点击“保存”，即可完成操作。
-![image](https://p3.pstatp.com/large/pgc-image/72a0861cf3e94f9d8f0d039ef28bf948)
