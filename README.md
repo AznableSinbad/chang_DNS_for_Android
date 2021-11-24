@@ -8,9 +8,9 @@
  - 114.114.114.114
  - 114.114.115.115
 
-## 第一步：通过桌面点击“设置”App，进入“设置”功能列表。
+## 第一步   打开手机的设置，找到【WIFI】
 
-![image](https://p3.pstatp.com/large/pgc-image/f21c8d0457654705841ec7443344d13a)
+![image](https://iknow-pic.cdn.bcebos.com/f2deb48f8c5494ee22f680f925f5e0fe98257e7e)
 
 
 ## 第二步：在“设置”功能列表中，点击“无线和网络”
